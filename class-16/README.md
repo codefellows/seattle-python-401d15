@@ -1,10 +1,8 @@
-# Intro to Machine Learning
+# Linear Regressions
 
-"Machine learning is the study of computer algorithms that improve automatically through experience.
+Today we're looking at tools for predictive analysis. A key tool for that analysis is Linear Regressions.
 
-As computing resources become cheaper we can "train" our algorithms do make predictions or decisions without being explicitly  programmed to do do." - Wikipedia
-
-In the old days the the cost of computing power was prohibitive, so it was expensive to allow our algorithms to "learn by doing."
+Don't be scared by the math. By understanding a few fundamental concepts we'll be able to do a lot.
 
 ## Learning Objectives
 
@@ -12,16 +10,13 @@ In the old days the the cost of computing power was prohibitive, so it was expen
 
 #### Describe and Define
 
-- Where Machine Learning fits in broader field of Artificial Intelligence.
-- Use cases for Machine Learning.
-- Different Machine Learning Models.
+- Role of regressions in predictive analysis
+- Dependent and Independent variables
+- Fitting a model
 
 #### Execute
 
-- Popular Machine Learning tool set.
-- Separate data into testing and training sets.
-- Collect data from remote data sets.
+- Plot and display a linear regression
+- Split data into train and test samples
+- Draw conclusions from models
 
-## Today's Outline
-
-<!-- To Be Completed By Instructor -->

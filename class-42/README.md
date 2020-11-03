@@ -1,14 +1,8 @@
-# Tying it All Together
+# React 2
 
-It's time to put the "full" in full stack.
+Let's continue to deepen our understanding of ReactJS.
 
-We're going to deploy a python API hosted as a container.
-
-We're going to deploy a relational database at a whole different location.
-
-We're going to deploy a JS/HTML/CSS web app somewhere else entirely.
-
-Then we're going to make them all work together in Full Stack harmony.
+Our goal is to start "thinking in React".
 
 ## Learning Objectives
 
@@ -16,14 +10,16 @@ Then we're going to make them all work together in Full Stack harmony.
 
 #### Describe and Define
 
-- Managed databases
-- Container hosting
-- Monolith vs. Microservice
+- Conditional rendering
+- Lifting up state
+- Composition vs. Inheritance
 
 #### Execute
 
-- Stitching it all together.
+- Render components differently based in unique conditions
+- Efficiently render lists of items
+- Handle user input via forms
 
-<!--## Today's Outline-->
+## Today's Outline
 
 <!-- To Be Completed By Instructor -->

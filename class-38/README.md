@@ -1,8 +1,6 @@
-# React 2
+# Cryptography
 
-Let's continue to deepen our understanding of ReactJS.
-
-Our goal is to start "thinking in React".
+Keeping secrets with Cryptography.
 
 ## Learning Objectives
 
@@ -10,15 +8,16 @@ Our goal is to start "thinking in React".
 
 #### Describe and Define
 
-- Conditional rendering
-- Lifting up state
-- Composition vs. Inheritance
+- Cryptography
+- Cryptoanalysis
+- Encrypt vs. encipher
+- Decrypt vs. decipher
 
 #### Execute
 
-- Render components differently based in unique conditions
-- Efficiently render lists of items
-- Handle user input via forms
+- Implement Caesar cipher
+- Decipher message with brute force attack
+- Utilize a corpus automate deciphering
 
 ## Today's Outline
 

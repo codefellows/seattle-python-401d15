@@ -1,8 +1,8 @@
-# Web Scraping
+# Data Visualization
 
-We can consume web sites with our eyes, ears and fingers. But how about getting your computer to consume it for you?
+A (pretty) picture tells a thousand words.
 
-If a service exposes an API then you're good to go. But what if they haven't? That's where web scraping comes in.
+Today we'll focus on telling the story of our data analysis visually.
 
 ## Learning Objectives
 
@@ -10,15 +10,15 @@ If a service exposes an API then you're good to go. But what if they haven't? Th
 
 #### Describe and Define
 
-- Why to scrape a web site
-- Legal pespectives on web scraping
-- Challenges of web scraping
+- Available visualization libraries.
+- How visualization libraries build on top of Pandas, Numpy and Matplotlib.
+- Use cases for different visualization styles.
 
 #### Execute
 
-- Use `requests` and `beautiful soup` libraries
-- Inspect a web pages content to determine an effective scraping method
-- Execute web scraper from CLI
+- Use Seaborn within notebooks
+- Load and display external datasets.
+- Choose most effective visualizations.
 
 ## Today's Outline
 

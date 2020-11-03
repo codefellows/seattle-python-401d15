@@ -1,6 +1,8 @@
-# Cryptography
+# Web Scraping
 
-Keeping secrets with Cryptography.
+We can consume web sites with our eyes, ears and fingers. But how about getting your computer to consume it for you?
+
+If a service exposes an API then you're good to go. But what if they haven't? That's where web scraping comes in.
 
 ## Learning Objectives
 
@@ -8,16 +10,15 @@ Keeping secrets with Cryptography.
 
 #### Describe and Define
 
-- Cryptography
-- Cryptoanalysis
-- Encrypt vs. encipher
-- Decrypt vs. decipher
+- Why to scrape a web site
+- Legal pespectives on web scraping
+- Challenges of web scraping
 
 #### Execute
 
-- Implement Caesar cipher
-- Decipher message with brute force attack
-- Utilize a corpus automate deciphering
+- Use `requests` and `beautiful soup` libraries
+- Inspect a web pages content to determine an effective scraping method
+- Execute web scraper from CLI
 
 ## Today's Outline
 

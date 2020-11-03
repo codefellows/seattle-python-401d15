@@ -1,10 +1,8 @@
-# In(Security)
+# React 1
 
-Python is a major player in the web security space, as well as other types of information security.
+Django has the ability to render client side web pages nicely. But an increasingly popular stack is develop your APIs using Django REST Framework and use ReactJS on the client side.
 
-In this class we'll give an overview of the different kinds of security threats.
-
-We'll examine how we can (ethically) probe for security weaknesses and (ideally) fix them.
+So it's time to dive back into JavaScript and learn React.
 
 ## Learning Objectives
 
@@ -12,16 +10,18 @@ We'll examine how we can (ethically) probe for security weaknesses and (ideally)
 
 #### Describe and Define
 
-- Different kinds of security threats
-- Most popular attack types
-- Penetration testing
-- Ethical hacking
+- Single Page Application (SPA)
+- JSX
+- React Components
+- Application state
 
 #### Execute
 
-- Apply penetration testing strategies to compromise an insecure site
-- Analyze site for security weaknesses
-- Modify code to increase site security
+- Create a React application
+- Render React elements
+- Pass data via props
+- Handle application state
+- Handle user input
 
 ## Today's Outline
 

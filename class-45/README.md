@@ -1,6 +1,14 @@
-# Topic Here
+# Tying it All Together
 
-Description Here
+It's time to put the "full" in full stack.
+
+We're going to deploy a python API hosted as a container.
+
+We're going to deploy a relational database at a whole different location.
+
+We're going to deploy a JS/HTML/CSS web app somewhere else entirely.
+
+Then we're going to make them all work together in Full Stack harmony.
 
 ## Learning Objectives
 
@@ -8,16 +16,14 @@ Description Here
 
 #### Describe and Define
 
-- A
-- B
-- C
+- Managed databases
+- Container hosting
+- Monolith vs. Microservice
 
 #### Execute
 
-- A
-- B
-- C
+- Stitching it all together.
 
-## Today's Outline
+<!--## Today's Outline-->
 
 <!-- To Be Completed By Instructor -->

@@ -1,8 +1,10 @@
-# React 1
+# Intro to Machine Learning
 
-Django has the ability to render client side web pages nicely. But an increasingly popular stack is develop your APIs using Django REST Framework and use ReactJS on the client side.
+"Machine learning is the study of computer algorithms that improve automatically through experience.
 
-So it's time to dive back into JavaScript and learn React.
+As computing resources become cheaper we can "train" our algorithms do make predictions or decisions without being explicitly  programmed to do do." - Wikipedia
+
+In the old days the the cost of computing power was prohibitive, so it was expensive to allow our algorithms to "learn by doing."
 
 ## Learning Objectives
 
@@ -10,18 +12,15 @@ So it's time to dive back into JavaScript and learn React.
 
 #### Describe and Define
 
-- Single Page Application (SPA)
-- JSX
-- React Components
-- Application state
+- Where Machine Learning fits in broader field of Artificial Intelligence.
+- Use cases for Machine Learning.
+- Different Machine Learning Models.
 
 #### Execute
 
-- Create a React application
-- Render React elements
-- Pass data via props
-- Handle application state
-- Handle user input
+- Popular Machine Learning tool set.
+- Separate data into testing and training sets.
+- Collect data from remote data sets.
 
 ## Today's Outline
 

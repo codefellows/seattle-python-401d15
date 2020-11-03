@@ -1,24 +1,14 @@
-# Next.js
+# Data Structures and Algorithms Review
 
-Next.js is a framework that builds on top of React and can streamline many aspects of React development.
+Today is our chance to look back over all the Data Structures and Algorithms we've learned.
 
-## Learning Objectives
+We'll go over whiteboarding strategies and computational thinking tips.
 
-### Students will be able to
+We'll look at how to tease out when a particular Data Structure or Algorithm is the best fit.
 
-#### Describe and Define
+We'll review Big O and consider what to do when we're using a core language feature with unknown space/time complexity.
 
-- Pre-Rendering
-- CSS-in-JS
-- Static Site Generation
 
-#### Execute
-
-- Create a Next.js powered application
-- Navigate to dynamically generated pages
-- Use shared components for layout
-- Fetch data at build time and run time
-
-## Today's Outline
+<!--## Today's Outline-->
 
 <!-- To Be Completed By Instructor -->
