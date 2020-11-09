@@ -15,7 +15,7 @@ Introduction to Python Language
 
 #### Execute
 
-- Install Python 3.8 on their systems
+- Install Python 3 on their systems
 - Python scripts from command line
 - Import packages of external code
 - Organize code into modules
