@@ -34,3 +34,4 @@ Today we learn about Test Driven Development with PyTest, and deepen our underst
 [Python Containers and Looping]: ./notes/containers.md
 [Fun with Python Strings]: ./notes/strings.md
 [PyTest and Test-Driven Development]: ./notes/pytest_tdd.md
+[Python Tutor](http://pythontutor.com/)
