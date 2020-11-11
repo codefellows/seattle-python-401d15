@@ -29,6 +29,7 @@ Will also handle exceptions as well as test that they are properly raised.
 
 ## Today's Outline
 
+- Friday schedule
 - Review Lab & Challenge
 - I don't know, yet
 - Truthy/Falsy
