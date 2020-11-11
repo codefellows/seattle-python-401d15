@@ -29,4 +29,8 @@ Will also handle exceptions as well as test that they are properly raised.
 
 ## Today's Outline
 
-> Instructor to add. See facilitator guide for details.
+- Review Lab & Challenge
+- I don't know, yet
+- Truthy/Falsy
+- Running a script vs. importing a module
+- Failing forward / managing frustration
