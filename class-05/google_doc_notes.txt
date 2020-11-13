@@ -1,0 +1,31 @@
+Head
+(apple) -> (banana) -> (cucumber) -> None
+                                       Current
+
+
+class Node:
+	def __init__(self, value, next = None):
+		self.value = value
+		self.next = next
+
+Problem Domain: is "cucumber" in linked list
+
+while current value is not cucumber then move to next
+
+Problem Domain: is "dates" in linked list
+
+while current value is not cucumber then move to next if there is a next
+
+
+(apple) = Node{
+	value = "apple"
+	next = Node}
+
+
+
+output_string = ""
+
+convert a linked list to this…
+"{ " + current.value + " } -> " + the same thing + NULL when at end
+
+{ apple } -> { banana } -> { cucumbers } -> NULL
