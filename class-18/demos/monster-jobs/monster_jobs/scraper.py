@@ -30,7 +30,7 @@ Walk through of https://realpython.com/beautiful-soup-web-scraper-python/
 
 # results = soup.find(id="ResultsContainer")
 
-# # print(results.prettify())
+# print(results.prettify())
 
 
 ###############
@@ -113,19 +113,28 @@ Walk through of https://realpython.com/beautiful-soup-web-scraper-python/
 ###############
 # step 10
 ###############
+# # Move import to top of course
+# import re
 
-# python_jobs = results.find_all('h2', string='Python Developer')
-# print(python_jobs)
+# # notice use of regular expression
+# program_manager_jobs = results.find_all(string=re.compile('Program Manager'))
+# print('Program Manager jobs:', program_manager_jobs)
+
+# # below won't work because the text has trailing new lines
+# program_manager_jobs_broken = results.find_all(string='Program Manager')
+# print('broken search', program_manager_jobs_broken)
 
 
 ###############
 # step 11
 ###############
 
-# python_jobs = results.find_all('h2',
-#                                string=lambda text: 'python' in text.lower())
+# can also pass in a function (in this case a lambda) as string argument
 
-# print(len(python_jobs))
+# program_manager_jobs = results.find_all('h2',
+#                                string=lambda text: 'Program Manager' in text)
+
+# print('Count of Program Manager jobs:', len(program_manager_jobs))
 
 
 ###############
