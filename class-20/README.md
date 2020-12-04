@@ -88,6 +88,8 @@ Tools At Your Disposal
 
 ### Class 25 (Presentation Day)
 
+Friday December 11, 2020 10:00 to 11:30 AM 
+
 - Eat.
 - Drink.
 - Present.
