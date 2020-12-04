@@ -7,6 +7,7 @@
   - Make sure it's covered in tests
   - Your may build a back-end for your final project (upon instructor approval)
   - Get approval for any UI beyond CLI
+  - Follow 80/20 rule
 - Tell a great story! 
 
 Tools At Your Disposal
