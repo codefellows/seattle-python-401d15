@@ -24,6 +24,6 @@ We'll be learning the most popular one, Django.
 - Migrate model changes to database
 - Run tests
 
-## Today's Outline
+#### Warmup
 
-<!-- To Be Completed By Instructor -->
+- [Isograms](./WARMUP.md)
