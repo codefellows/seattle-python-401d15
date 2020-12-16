@@ -2,5 +2,7 @@
 
 {% block content %}
 <h2>Snack Details</h2>
-<p>{{ snack }}</p>
+<h3>{{ snack.name }}</h3>
+<p>Rank: {{ snack.rank }}</p>
+<p>Eater with priority: {{ snack.priority_eater }}</p>
 {% endblock content %}
