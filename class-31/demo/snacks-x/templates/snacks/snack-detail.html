@@ -1,0 +1,11 @@
+{% extends '_base.html' %}
+
+{% block content %}
+  <h2>{{ snack.name }}</h2>
+  <str>Purchaser: {{ snack.purchaser }}</str>
+  <p>
+    <span><a href="{{ snack.get_absolute_url }}update">+ edit</a></span>
+    <span><a href="{{ snack.get_absolute_url }}delete">+ delete</a></span>
+  </p>
+  <p>Description: {{ snack.description }}</p>
+{% endblock content %}
