@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    # New for class 33 (remember to install AND update requirements.txt)
+    command: gunicorn snacks_project.wsgi:application --bind 0.0.0.0:8000 --workers 4
+    # command: python /code/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    ports:
+      - 8000:8000
