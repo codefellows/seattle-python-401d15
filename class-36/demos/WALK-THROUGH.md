@@ -22,6 +22,7 @@ run:
  - create `.gitignore`
    - Pro Tip: Use [gitignore.io](https://www.toptal.com/developers/gitignore)  
    - Enter `Python`,`Django` and `vscode`
+- `heroku stack:set container`
 - ACP initial files
 - `poetry add django-environ`
 - `poetry add psycopg2-binary`
