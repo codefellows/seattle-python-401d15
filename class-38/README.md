@@ -22,3 +22,7 @@ Keeping secrets with Cryptography.
 ## Today's Outline
 
 <!-- To Be Completed By Instructor -->
+- Big Sur issues
+- Career Coaching Thursday
+  - no prep assignments
+- Friday off
