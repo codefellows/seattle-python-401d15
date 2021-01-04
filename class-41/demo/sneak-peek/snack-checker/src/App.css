@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App li {
+    list-style-type: none;
+}
+
+.App section {
+    border: 2px solid green;
+    width: 50%;
+    margin: 10px auto;
+}
