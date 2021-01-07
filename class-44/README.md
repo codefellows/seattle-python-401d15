@@ -1,8 +1,6 @@
-# Getting Stylish with Sass
+# Next.js Deployment
 
-Modern styling strategies have moved beyond traditional CSS.
-
-We'll look at a range of new tools now available including SASS and CSS-In-JS
+It's time to go live!
 
 ## Learning Objectives
 
@@ -10,15 +8,13 @@ We'll look at a range of new tools now available including SASS and CSS-In-JS
 
 #### Describe and Define
 
-- Difference between Sass and Css
-- CSS in JS
-- Scoped CSS in React
+- Evaluate different hosting options.
+- Evaluate Styling options.
 
 #### Execute
 
-- Configure React projects to support Sass
-- Style React components
+- Deploy a Next/React app to Vercel.
 
-<!--## Today's Outline-->
+## Today's Outline
 
 <!-- To Be Completed By Instructor -->
